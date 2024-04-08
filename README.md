@@ -7,3 +7,7 @@
 - [Data Structures Practice](https://github.com/rohitmudduluru/DataStructures)<br/>
 ### Robotics Projects
 - [Robo Cup Jr.(RCJ) Line Competition](https://github.com/rohitmudduluru/RCJLine)<br/>
+
+## Feel Free to Contact Me:
+- Linkden: [https://www.linkedin.com/in/rohit-mudduluru-9588052bb](https://www.linkedin.com/in/rohit-mudduluru-9588052bb)<br/>
+- Email: rohitmudduluru@gmail.com<br/>
