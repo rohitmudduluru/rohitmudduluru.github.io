@@ -1,6 +1,6 @@
 # Hi, I'm [Rohit](https://www.linkedin.com/in/rohit-mudduluru-9588052bb)!<br/> Student, Programmer, Teacher
 
-## Here are some of the programs I've worked on throughout my programming journey:
+## Here are some of the projects I've worked on throughout my programming journey:
 
 ### Programming Projects
 - [Algorithms Practice](https://github.com/rohitmudduluru/Algorithms)<br/>
